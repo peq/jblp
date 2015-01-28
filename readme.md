@@ -1,6 +1,6 @@
 # About
 
-This is a fork of [jblc](https://code.google.com/p/jblp/) which tries to add JPEG supprt.
+This is a fork of [jblp](https://code.google.com/p/jblp/) which tries to add JPEG supprt.
 
 # Short description
 

@@ -1,11 +1,11 @@
 *.class
 
 .svn
-jblp/target/**
+target/**
 
-jblp/.settings/
-jblp/.project
-jblp/.classpath
+.settings/
+.project
+.classpath
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
