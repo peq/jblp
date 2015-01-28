@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/DECORATION/1.3.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/DECORATION/1.3.0 http://maven.apache.org/xsd/decoration-1.3.0.xsd">
+  <body>
+    <menu name="About">
+      <item name="BLP1" href="/blp1/index.html">
+        <item name="Format Specification" href="/blp1/formatSpecification.html" />
+        <item name="Statistics" href="/blp1/statistics.html" />
+      </item>
+    </menu>
+    <menu ref="reports" inherit="bottom" />
+  </body>
+
+</project>

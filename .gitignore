@@ -1,7 +1,15 @@
 *.class
 
+.svn
+jblp/target/**
+
+jblp/.settings/
+jblp/.project
+jblp/.classpath
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+
 
 # Package Files #
 *.jar

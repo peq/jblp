@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://maven.apache.org/XDOC/2.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/XDOC/2.0 http://maven.apache.org/xsd/xdoc-2.0.xsd">
+  <properties>
+    <title>BLP1 Statistics</title>
+    <author>cohadar</author>
+  </properties>
+
+  <body>
+    <section name="Source">
+      <p>
+        <a href="http://www.wc3c.net/showthread.php?t=103242">W3C - BLP Format</a>
+      </p>
+    </section>
+
+    <source>
+<![CDATA[
+All BLPs in warcraft 3 FT are BLP1  (RoC used BLP0, WoW uses BLP2)
+
+There is a total of 6266 BLP images in current version of warcraft 3
+
+There are 2 main compression types:
+compression = 0  - jpeg- used by 4917 images
+compression = 1  - paletted- used by 1349 images
+
+There are 2 flag values:
+flags = 0  -noalpha- 3874
+flags = 8  -alpha- 2392
+
+There are 7 picture types:
+pictureType = 2.1  - 392
+pictureType = 3.0  - 123
+pictureType = 3.1  - 245
+pictureType = 4.0  - 92
+pictureType = 4.1  - 1905
+pictureType = 5.0  - 46
+pictureType = 5.1  - 3463
+]]>
+    </source>
+  </body>
+
+</document>
